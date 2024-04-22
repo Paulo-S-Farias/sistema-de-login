@@ -1,0 +1,81 @@
+ .corpo{
+   position: absolute;
+   font-family: Arial, Helvetica, sans-serif;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%, -50%)
+    
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+}
+.caixa {
+    height: 150px;
+}
+
+.apresentação {
+    color: #999;
+    padding: 0;
+    
+    
+}
+
+.login {
+    color: #777;
+}
+
+.email {
+    padding: 5px;
+    width: 285px;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.senha {
+    padding: 5px;
+    width: 285px;
+    border-radius: 5px;
+    height: 25px;
+}
+
+.entrar {
+    padding: 5px;
+    width: 300px;
+    background-color: #4162b7;
+    color: #FFF;
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+
+  
+}
+
+.titulo {
+    text-align: center;
+   
+}
+
+a {
+    text-decoration: none;
+    color : #4162b7;
+    
+}
+
+.esqueci {
+    font-size: 14px;
+    padding-left: 158px;
+}
+
+.ntemn {
+    padding-left: 30px;
+}
+
+.cadastro {
+    padding-left: 10px;
+}
+
+.criador {
+    padding-left: 50px;
+}
